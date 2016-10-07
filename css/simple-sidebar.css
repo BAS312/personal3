@@ -30,7 +30,8 @@
     height: 100%;
     margin-left: -250px;
     overflow-y: auto;
-    background: #000;
+    background: #f00;
+ /*changed background color can be image, need url of image in folder*/
     -webkit-transition: all 0.5s ease;
     -moz-transition: all 0.5s ease;
     -o-transition: all 0.5s ease;
@@ -92,7 +93,8 @@
 }
 
 .sidebar-nav > .sidebar-brand a {
-    color:#999999 ;
+    color:#06f ;
+ /*changed font color to royal blue*/
 }
 
 .sidebar-nav > .sidebar-brand a:hover {
